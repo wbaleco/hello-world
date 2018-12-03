@@ -1,2 +1,2 @@
 # hello-world
-Desenvolvimento de sistemas web com JSf
+Desenvolvimento de sistemas web com JSf com Primefaces
